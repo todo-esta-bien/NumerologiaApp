@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "242313891217",
+    "firebase_url": "https://numerologia-app.firebaseio.com",
+    "project_id": "numerologia-app",
+    "storage_bucket": "numerologia-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242313891217:android:77111aa409e3708e",
+        "android_client_info": {
+          "package_name": "mx.com.bit01.numerologiaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242313891217-3f5adtumdvj7onr2onu5epopdg4nuo3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.com.bit01.numerologiaapp",
+            "certificate_hash": "65aa98baa5673a6f0d18ba892f8e84e5301aa9d8"
+          }
+        },
+        {
+          "client_id": "242313891217-bc798viod04t3sljsbi01bi0vp2ksrif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM3Fd8paAyFpLaQni2ouwoyzAjNIY27GQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242313891217-bc798viod04t3sljsbi01bi0vp2ksrif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
